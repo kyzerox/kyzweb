@@ -114,6 +114,7 @@ section .button:hover {
   border: solid #101010;
   font-size: 30px;
   margin-top: 32px;
+  trasition: 0.4s;
 }
 
 
